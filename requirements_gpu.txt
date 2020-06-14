@@ -1,5 +1,12 @@
+# before install 
+#    cuda-tool-kits, 
+#    cuDNN 7.x.x
+#    libgpuarray 7.2 (pygpu)
 numpy==1.16.4
-mkl
+pycuda 
+scikit-cuda
+pygpu 
+mkl 
 bode 
 sphinx 
 pydot-ng 
