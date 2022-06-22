@@ -2,7 +2,7 @@
 #    cuda-tool-kits, 
 #    cuDNN 7.x.x
 #    libgpuarray 7.2 (pygpu)
-numpy==1.16.4
+numpy==1.22.0
 pycuda 
 scikit-cuda
 pygpu 
